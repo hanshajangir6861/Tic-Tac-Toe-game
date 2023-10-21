@@ -32,3 +32,6 @@ body{
     display: flex;
     margin: auto;
 }
+img {
+    width: 100px;
+}
