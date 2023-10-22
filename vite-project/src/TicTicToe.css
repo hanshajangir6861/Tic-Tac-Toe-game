@@ -15,7 +15,9 @@ body{
     color: blue;
     border-color: blue;
     background-color: cornflowerblue;
+    /* margin-bottom: 400px; */
 }
+
 .boxes{
     display: flex;
     height: 100px;
@@ -24,6 +26,7 @@ body{
     border: 4px solid #0f1b21;
     border-radius: 12px;
     cursor: pointer;
+
 }
 
 .board{
